@@ -20,3 +20,12 @@ In aceasta aplicatie avem 2 entitati:
 2.Locatie(entitate copil)
 
    Atribute:ID,nume,adresa,latitudine,longitudine
+
+Specificatii pentru aplicatia web
+
+Interfață simplă, cu listă de evenimente și formular de creare.
+Afișare hartă interactivă cu locația evenimentelor.
+Funcționalitate de căutare și direcții pe hartă.
+Adăugare, editare și ștergere evenimente.
+Monitorizare participanți și confirmări.
+Notificări simple pentru evenimente noi și actualizări.
